@@ -1,5 +1,8 @@
 _repo: With-Sword-and-Crucifix-Being-an-Account-of-the-Strange-Adventures-of-Count-Louis-Sancerre-Co__66503
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66503-h/images/cover.jpg
 creator:
   author:
     agent_name: Van Zile, Edward S. (Edward Sims)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48193
     wikipedia: https://en.wikipedia.org/wiki/Edward_Sims_Van_Zile
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66503#With-Sword-and-Crucifix-Being-an-Account-of-the-Strange-Adventures-of-Count-Louis-Sancerre-Co_
 gutenberg_issued: '2021-10-10'
 identifiers:
   gutenberg: '66503'
